@@ -24,3 +24,6 @@ Using SQL Server Management Studio,
 1. The Stores had a Holiday during only 7% of the weeks
 2. While the Weekly Wales generally increased with increase in Fuel Price, it generally decreased with increase in CPI, Unemployment Rate and Temperature
 3. The Weekly Sales had the highest correlation with Unemployment Rate and lowest correlation with Fuel Price
+4. Store #20 made the highest amount worth of Average Weekly Sales in the given period while Store #33 made the lowest amount worth of Average Weekly Sales
+5. Only 4 out of the 45 stores made Average Weekly Sales of more than $2 Million - Store #s 20, 4, 14 & 13
+6. Nearly half the stores - 20 of them - made a Average Weekly Sales of less than $1 Million
