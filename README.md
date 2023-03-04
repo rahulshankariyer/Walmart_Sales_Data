@@ -21,4 +21,5 @@ Using SQL Server Management Studio,
 
 ## Insights
 
-1. 
+1. The stores had holidays during only 7% of the weeks
+2. 
