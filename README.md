@@ -55,6 +55,13 @@ Now that there are 3 separated fields for the day, month and year, the 'Date' wa
 
 ## Analysis
 
+Using SQL, 4 Scatter Plots were created to determine the Correlation of the Weekly Sales against the following 4 factors:
+
+    (i) Fuel Price
+    (ii) Consumer Price Index (CPI)
+    (iii) Unemployment Rate
+    (iv) Temperature
+
 
 
 ## Insights
