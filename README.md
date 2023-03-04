@@ -21,5 +21,6 @@ Using SQL Server Management Studio,
 
 ## Insights
 
-1. The stores had holidays during only 7% of the weeks
-2. 
+1. The Stores had a Holiday during only 7% of the weeks
+2. While the Weekly Wales generally increased with increase in Fuel Price, it generally decreased with increase in CPI, Unemployment Rate and Temperature
+3. The Weekly Sales had the highest correlation with Unemployment Rate and lowest correlation with Fuel Price
