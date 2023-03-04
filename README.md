@@ -66,6 +66,11 @@ Below are the scatter plots which depict the relationship between the Weekly Sal
 
 ![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Correlation%20of%20Weekly%20Sales%20with%20Fuel%20Price%2C%20CPI%2C%20Unemployment%20and%20Temperature.png?token=GHSAT0AAAAAAB7SU4QBOSVI4FT72JS2ISFIZAD3CEQ)
 
+The correlation of Weekly Sales with these 4 factors is given in the below table:
+
+![image](https://user-images.githubusercontent.com/103128153/222934162-b1c5bd89-2d22-4748-9338-b124a6269c66.png)
+
+
 ## Insights
 
 1. The Stores had a Holiday during only 7% of the weeks
