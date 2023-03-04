@@ -13,9 +13,47 @@ For the purpose of this project, we used data on the <a href = "https://www.kagg
 1. Excel
 2. Microsoft SQL Server Management Studio
 
-## Analysis
+## Data Cleaning
 
-Using SQL Server Management Studio, 
+Using SQL Server Management Studio, the 'Date' column values, which were in different formats, were readjusted. Some of the values were numbers and so those were converted to date format using update operation in SQL:
+
+    --Uniformizing all the dates into the same format
+
+    update ProjectPortfolio..Walmart_Store_Sales
+    set Date = cast((convert(datetime,convert(int,Date)) - 2) as date)
+    where Date not like '%-%';
+
+This leaves us with two sets of dates in different formats, where the updated set is now in the 'YYYY-MM-DD' format, while the set of dates not updated is in the 'DD-MM-YYYY' format. So to uniformize the dates, 3 new columns were added to the data - 'day','month','year' - using add operation in SQL:
+
+    --Adding 'day','month','year' columns
+    
+    alter table ProjectPortfolio..Walmart_Store_Sales
+    add day int,month int,year int;
+
+The problem with the dates in the 'YYYY-MM-DD' format is that the month and the day are mismatched compared to the dates given in the original data. This results in, for example, February 5th being wrongly denoted as May 2nd from the above conversion. So for these dates, to make the 'day' and 'month' fields match those given in the original data, the 'day' field was updated by extracting month and the 'month' field was updated by extracting the month, as shown below:
+
+    update ProjectPortfolio..Walmart_Store_Sales
+    set day = month(Date),
+    month = day(Date),
+    year = year(Date)
+    where Date like '____-%';
+
+For the rest of the dates, which were in the 'DD-MM-YYYY' format, the update operation on the 'day', 'month' and 'year' fields was more straighforward:
+
+    update ProjectPortfolio..Walmart_Store_Sales
+    set day = cast(parsename(replace(Date,'-','.'),3) as int),
+    month = cast(parsename(replace(Date,'-','.'),2) as int),
+    year = cast(parsename(replace(Date,'-','.'),1) as int)
+    where Date like '__-%';
+
+Now that there are 3 separated fields for the day, month and year, the 'Date' was dropped using the drop option in SQL:
+
+    --Removing 'Date' column
+
+    alter table ProjectPortfolio..Walmart_Store_Sales
+    drop column Date;
+
+## Analysis
 
 
 
