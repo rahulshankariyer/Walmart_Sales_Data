@@ -62,7 +62,9 @@ Using SQL, 4 Scatter Plots were created to determine the Correlation of the Week
     (iii) Unemployment Rate
     (iv) Temperature
 
+Below are the scatter plots which depict the relationship between the Weekly Sales and the above 4 factors:
 
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Correlation%20of%20Weekly%20Sales%20with%20Fuel%20Price%2C%20CPI%2C%20Unemployment%20and%20Temperature.png?token=GHSAT0AAAAAAB7SU4QBOSVI4FT72JS2ISFIZAD3CEQ)
 
 ## Insights
 
