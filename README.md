@@ -27,3 +27,5 @@ Using SQL Server Management Studio,
 4. Store #20 made the highest amount worth of Average Weekly Sales in the given period while Store #33 made the lowest amount worth of Average Weekly Sales
 5. Only 4 out of the 45 stores made Average Weekly Sales of more than $2 Million - Store #s 20, 4, 14 & 13
 6. Nearly half the stores - 20 of them - made a Average Weekly Sales of less than $1 Million
+7. The month of December in this period saw the maximum sales, which could be attributed to Christmas and New Year, followed by July and April, which could be attributed to 4th of July and Easter respectively
+8. The Average Weekly Sales on Weeks without holidays is roughly 80K more than that on Weeks with Holidays
