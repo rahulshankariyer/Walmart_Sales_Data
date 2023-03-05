@@ -78,7 +78,9 @@ Speaking of holidays, Weekly Sales are likely to be reduced on weeks having holi
 
 ![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Weekly%20Sales%20vs%20Holidays.png?token=GHSAT0AAAAAAB7SU4QAYQRDBY5KKTIM4P4AZAD3TNQ)
 
+Walmart has 45 different stores, below is given the Average Weekly Sales of each of the Stores:
 
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Sales%20per%20Store.png?token=GHSAT0AAAAAAB7SU4QBCVEEFP4HZEH5UX4EZAD33JA)
 
 ## Insights
 
