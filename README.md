@@ -70,9 +70,15 @@ The correlation of Weekly Sales with these 4 factors is given in the below table
 
 ![image](https://user-images.githubusercontent.com/103128153/222934162-b1c5bd89-2d22-4748-9338-b124a6269c66.png)
 
-Many weeks in a year obviously have some holidays on weekdays, here's a look at how many weeks had a holiday:
+Many weeks in a year obviously have some holidays on weekdays, here's a look below at what percentage of the weeks had a holiday.
 
 ![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Percentage%20of%20Weeks%20with%20Holidays.png?token=GHSAT0AAAAAAB7SU4QADNNJAC6EHGLZ6WT4ZAD3QJQ)
+
+Speaking of holidays, Weekly Sales are likely to be reduced on weeks having holidays. So below is a chart of the Average Weekly Sales on Full Weeks and Weeks with Holidays
+
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Weekly%20Sales%20vs%20Holidays.png?token=GHSAT0AAAAAAB7SU4QAYQRDBY5KKTIM4P4AZAD3TNQ)
+
+
 
 ## Insights
 
