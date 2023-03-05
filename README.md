@@ -64,7 +64,7 @@ Using SQL, 4 Scatter Plots were created to determine the Correlation of the Week
 
 Below are the scatter plots which depict the relationship between the Weekly Sales and the above 4 factors:
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Correlation%20of%20Weekly%20Sales%20with%20Fuel%20Price%2C%20CPI%2C%20Unemployment%20and%20Temperature.png?token=GHSAT0AAAAAAB7SU4QATWOSYTDD2DYSQKO2ZAD3RKQ)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Correlation%20of%20Weekly%20Sales%20with%20Fuel%20Price%2C%20CPI%2C%20Unemployment%20and%20Temperature.png?token=GHSAT0AAAAAAB7SU4QBTFTXNPADYZQXBG4CZAD4BXA)
 
 The correlation of Weekly Sales with these 4 factors is given in the below table:
 
@@ -72,15 +72,15 @@ The correlation of Weekly Sales with these 4 factors is given in the below table
 
 Many weeks in a year obviously have some holidays on weekdays, here's a look below at what percentage of the weeks had a holiday.
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Percentage%20of%20Weeks%20with%20Holidays.png?token=GHSAT0AAAAAAB7SU4QADNNJAC6EHGLZ6WT4ZAD3QJQ)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Percentage%20of%20Weeks%20with%20Holidays.png?token=GHSAT0AAAAAAB7SU4QAEUNXYFB6FXIKLUYMZAD4CGQ)
 
 Speaking of holidays, Weekly Sales are likely to be reduced on weeks having holidays. So below is a chart of the Average Weekly Sales on Full Weeks and Weeks with Holidays
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Weekly%20Sales%20vs%20Holidays.png?token=GHSAT0AAAAAAB7SU4QAYQRDBY5KKTIM4P4AZAD3TNQ)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Weekly%20Sales%20vs%20Holidays.png?token=GHSAT0AAAAAAB7SU4QA6QEJQCUXF6SN3HPQZAD4CXQ)
 
 Walmart has 45 different stores, below is given the Average Weekly Sales of each of the Stores:
 
-![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Sales%20per%20Store.png?token=GHSAT0AAAAAAB7SU4QBCVEEFP4HZEH5UX4EZAD33JA)
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Sales%20per%20Store.png?token=GHSAT0AAAAAAB7SU4QA42KCQGCVTO64O5EEZAD4DSA)
 
 The original dataset contained Sales Data for 33 months, below is the Monthly Sales Data:
 
