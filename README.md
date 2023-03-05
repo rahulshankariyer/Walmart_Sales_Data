@@ -70,6 +70,9 @@ The correlation of Weekly Sales with these 4 factors is given in the below table
 
 ![image](https://user-images.githubusercontent.com/103128153/222934162-b1c5bd89-2d22-4748-9338-b124a6269c66.png)
 
+Many weeks in a year obviously have some holidays on weekdays, here's a look at how many weeks had a holiday:
+
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Percentage%20of%20Weeks%20with%20Holidays.png?token=GHSAT0AAAAAAB7SU4QADNNJAC6EHGLZ6WT4ZAD3QJQ)
 
 ## Insights
 
@@ -80,4 +83,4 @@ The correlation of Weekly Sales with these 4 factors is given in the below table
 5. Only 4 out of the 45 stores made Average Weekly Sales of more than $2 Million - Store #s 20, 4, 14 & 13
 6. Nearly half the stores - 20 of them - made a Average Weekly Sales of less than $1 Million
 7. The month of December in this period saw the maximum sales, which could be attributed to Christmas and New Year, followed by July and April, which could be attributed to 4th of July and Easter respectively
-8. The Average Weekly Sales on Weeks without holidays is roughly 80K more than that on Weeks with Holidays
+8. The Average Weekly Sales on Weeks without holidays is roughly 80K more than that on Weeks with Holidays, thus showing that the Weekly Sales of Walmart were only affected by 7% on Weeks with Holidays
