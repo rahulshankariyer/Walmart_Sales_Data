@@ -82,6 +82,10 @@ Walmart has 45 different stores, below is given the Average Weekly Sales of each
 
 ![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Sales%20per%20Store.png?token=GHSAT0AAAAAAB7SU4QBCVEEFP4HZEH5UX4EZAD33JA)
 
+The original dataset contained Sales Data for 33 months, below is the Monthly Sales Data:
+
+![alt text](https://raw.githubusercontent.com/rahulshankariyer/Walmart_Sales_Data/main/Monthly%20Sales.png?token=GHSAT0AAAAAAB7SU4QBMGIGXPFSOS7QKVXUZAD4ACA)
+
 ## Insights
 
 1. The Stores had a Holiday during only 7% of the weeks
